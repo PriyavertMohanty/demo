@@ -1,2 +1,2 @@
 # demo
-It's for learning purpose
+It's for learning purpose.
